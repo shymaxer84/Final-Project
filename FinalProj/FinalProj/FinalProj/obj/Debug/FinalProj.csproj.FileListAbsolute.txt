@@ -1,0 +1,73 @@
+C:\All Visual\FinalProj\FinalProj\bin\Debug\FinalProj.exe.config
+C:\All Visual\FinalProj\FinalProj\bin\Debug\FinalProj.exe
+C:\All Visual\FinalProj\FinalProj\bin\Debug\FinalProj.pdb
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.csprojAssemblyReference.cache
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.Properties.Resources.resources
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.csproj.GenerateResource.cache
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.csproj.CoreCompileInputs.cache
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.exe
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.pdb
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.RegisterForm.resources
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.LoginForm.resources
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.ChoiсeForm.resources
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.ReportForm.resources
+C:\All Visual\FinalProj\FinalProj\bin\Debug\MySql.Data.dll
+C:\All Visual\FinalProj\FinalProj\bin\Debug\Google.Protobuf.dll
+C:\All Visual\FinalProj\FinalProj\bin\Debug\BouncyCastle.Crypto.dll
+C:\All Visual\FinalProj\FinalProj\bin\Debug\Renci.SshNet.dll
+C:\All Visual\FinalProj\FinalProj\bin\Debug\MySql.Data.xml
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.csproj.CopyComplete
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.ReportForm2.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\bin\Debug\FinalProj.exe.config
+C:\Users\User\source\repos\FinalProj\FinalProj\bin\Debug\FinalProj.exe
+C:\Users\User\source\repos\FinalProj\FinalProj\bin\Debug\FinalProj.pdb
+C:\Users\User\source\repos\FinalProj\FinalProj\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\FinalProj\FinalProj\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\FinalProj\FinalProj\bin\Debug\Renci.SshNet.dll
+C:\Users\User\source\repos\FinalProj\FinalProj\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.ChoiсeForm.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.LoginForm.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.RegisterForm.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.Properties.Resources.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.ReportForm.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.ReportForm2.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.csproj.CopyComplete
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.exe
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.pdb
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.WelcomeForm.resources
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.WelcomeForm.resources
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_NoPass_Atrada_Form.resources
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_Pass_Atrada_Form.resources
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_NoPass_Tarbut_Form.resources
+C:\All Visual\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_Pass_Tarbut_Form.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_NoPass_Atrada_Form.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_NoPass_Tarbut_Form.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_Pass_Atrada_Form.resources
+C:\Users\User\source\repos\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_Pass_Tarbut_Form.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\bin\Debug\FinalProj.exe.config
+C:\All Visual\FinalProj\FinalProj\FinalProj\bin\Debug\FinalProj.exe
+C:\All Visual\FinalProj\FinalProj\FinalProj\bin\Debug\FinalProj.pdb
+C:\All Visual\FinalProj\FinalProj\FinalProj\bin\Debug\MySql.Data.dll
+C:\All Visual\FinalProj\FinalProj\FinalProj\bin\Debug\Google.Protobuf.dll
+C:\All Visual\FinalProj\FinalProj\FinalProj\bin\Debug\BouncyCastle.Crypto.dll
+C:\All Visual\FinalProj\FinalProj\FinalProj\bin\Debug\Renci.SshNet.dll
+C:\All Visual\FinalProj\FinalProj\FinalProj\bin\Debug\MySql.Data.xml
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.csprojAssemblyReference.cache
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.ChoiсeForm.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_NoPass_Atrada_Form.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_NoPass_Tarbut_Form.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_Pass_Atrada_Form.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.Graph_Pass_Tarbut_Form.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.LoginForm.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.RegisterForm.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.Properties.Resources.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.ReportForm.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.ReportForm2.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.WelcomeForm.resources
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.csproj.GenerateResource.cache
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.csproj.CoreCompileInputs.cache
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.csproj.CopyComplete
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.exe
+C:\All Visual\FinalProj\FinalProj\FinalProj\obj\Debug\FinalProj.pdb
